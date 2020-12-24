@@ -1,12 +1,16 @@
 <h2> Hi! 👋 </h2>
 
-<a href="https://github.com/Scan0r/Scan0r">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Scan0r&count_private=true&show_icons=true&theme=radical">
-</a>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Scan0r&count_private=true&show_icons=true&theme=radical" alt="Scan0r Github Stats">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scan0r&layout=compact)](https://github.com/Scan0r/Scan0r)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scan0r&layout=compact" alt="Scan0r Language Stats" />
+</p>
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Scan0r)](https://github.com/Scan0r/Scan0r)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Scan0r" alt="Scan0r Wakatime" />
+</p>
 
 ---
 
