@@ -8,13 +8,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scan0r&layout=compact" alt="Scan0r Language Stats" />
 </p>
 
+---
+
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Scan0r" alt="Scan0r Wakatime" />
 </p>
 
----
-
-<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
